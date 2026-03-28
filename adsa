@@ -1,0 +1,116 @@
+# 📚 Livraria Virtual — Histórias de Usuário (ESM)
+
+## 🧑‍💻 Cadastro de Cliente
+
+Como comprador, quero me cadastrar no sistema para poder realizar compras.
+
+**Critérios:**
+
+* Nome, email, senha e endereço
+* Email único
+* Senha mínima de 6 caracteres
+
+---
+
+## 🔐 Login
+
+Como comprador ou gerente, quero fazer login no sistema.
+
+**Critérios:**
+
+* Login com email e senha
+* Exibir erro se inválido
+
+---
+
+## 📖 Buscar Livros
+
+Como comprador, quero buscar livros.
+
+**Critérios:**
+
+* Buscar por título, autor ou categoria
+* Visualizar detalhes
+
+---
+
+## 🛒 Carrinho
+
+Como comprador, quero adicionar livros ao carrinho.
+
+**Critérios:**
+
+* Adicionar e remover itens
+* Mostrar valor total
+
+---
+
+## 💳 Compra
+
+Como comprador, quero pagar com cartão de crédito.
+
+**Critérios:**
+
+* Validar pagamento
+* Confirmar compra
+
+---
+
+## 🚚 Frete
+
+Como comprador, quero ver o valor do frete.
+
+**Critérios:**
+
+* Calcular por peso e distância
+
+---
+
+## 🎁 Promoções
+
+Como comprador, quero receber descontos.
+
+**Critérios:**
+
+* Aplicar automaticamente
+
+---
+
+## 📦 Estoque
+
+Como sistema, quero verificar disponibilidade.
+
+**Critérios:**
+
+* Entrega imediata ou solicitar à editora
+
+---
+
+## 🔗 Editoras
+
+Como sistema, quero comprar livros automaticamente.
+
+**Critérios:**
+
+* Enviar pedido e atualizar estoque
+
+---
+
+## 📊 Relatórios
+
+Como gerente, quero visualizar relatórios.
+
+**Critérios:**
+
+* Livros mais vendidos
+* Clientes frequentes
+
+---
+
+## 🤖 Recomendações
+
+Como comprador, quero sugestões de livros.
+
+**Critérios:**
+
+* Baseadas no histórico
